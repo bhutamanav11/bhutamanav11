@@ -62,4 +62,5 @@ Full-stack e-auction platform built using Flask and database systems
 
 📫 Connect
 
-- LinkedIn: https://linkedin.com/in/manav-bhuta  
+- LinkedIn: https://linkedin.com/in/manav-bhuta
+- Portfolio: https://manav-dev.vercel.app/
